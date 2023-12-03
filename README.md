@@ -3,7 +3,7 @@
 RPEmotes is a community driven FiveM emote menu allowing players to express themselves in roleplay with custom animations, countless facial expressions, walkstyles and props, inspired by [DullPear](https://github.com/andristum/dpemotes).
 
 <p align="center">
-  <img src="https://i.imgur.com/L91BLP6.png" alt="Alt Text" width="800" height="auto"> 
+  <img src="https://i.imgur.com/1RSxyVq.png" alt="Alt Text" width="800" height="auto">  
 </p>
 
 
