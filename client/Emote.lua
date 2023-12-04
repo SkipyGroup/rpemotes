@@ -242,9 +242,11 @@ local playerId = PlayerId()
 local function HandsUpLoop()
     CreateThread(function()
         while inHandsup do
-            for control, state in pairs(disableHandsupControls) do
-                DisableControlAction(0, control, state)
-            end
+            if disableHandsupControls then
+                for control, state in pairs(disableHandsupControls) do
+                    DisableControlAction(0, control, state)
+                end
+            end            
 
             if IsPlayerAiming(playerId) then
                 ClearPedSecondaryTask(PlayerPedId())
@@ -314,6 +316,12 @@ if Config.HandsupEnabled then
     if Config.HandsupKeybindEnabled then
         RegisterKeyMapping("handsup", "Put your arms up", "keyboard", Config.HandsupKeybind)
     end
+
+    local function IsPlayerInHandsUp()
+        return inHandsup
+    end
+    
+    exports('IsPlayerInHandsUp', IsPlayerInHandsUp)
 end
 
 AddEventHandler('onResourceStop', function(resource)
