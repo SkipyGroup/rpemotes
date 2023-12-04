@@ -242,9 +242,11 @@ local playerId = PlayerId()
 local function HandsUpLoop()
     CreateThread(function()
         while inHandsup do
-            for control, state in pairs(disableHandsupControls) do
-                DisableControlAction(0, control, state)
-            end
+            if disableHandsupControls then
+                for control, state in pairs(disableHandsupControls) do
+                    DisableControlAction(0, control, state)
+                end
+            end            
 
             if IsPlayerAiming(playerId) then
                 ClearPedSecondaryTask(PlayerPedId())
@@ -316,7 +318,7 @@ if Config.HandsupEnabled then
     end
 
     local function IsPlayerInHandsUp()
-        return IsEntityPlayingAnim(PlayerPedId(), "missminuteman_1ig_2", "handsup_base", 51)
+        return inHandsup
     end
     
     exports('IsPlayerInHandsUp', IsPlayerInHandsUp)
