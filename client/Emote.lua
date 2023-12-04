@@ -314,6 +314,12 @@ if Config.HandsupEnabled then
     if Config.HandsupKeybindEnabled then
         RegisterKeyMapping("handsup", "Put your arms up", "keyboard", Config.HandsupKeybind)
     end
+
+    local function IsPlayerInHandsUp()
+        return IsEntityPlayingAnim(PlayerPedId(), "missminuteman_1ig_2", "handsup_base", 51)
+    end
+    
+    exports('IsPlayerInHandsUp', IsPlayerInHandsUp)
 end
 
 AddEventHandler('onResourceStop', function(resource)
