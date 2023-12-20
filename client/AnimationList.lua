@@ -13059,6 +13059,25 @@ RP.PropEmotes = {
             EmoteMoving = true
         }
     },
+    ["mojito"] = {
+        "amb@code_human_wander_drinking@female@base",
+        "static",
+        "Mojito",
+        AnimationOptions = {
+            Prop = 'prop_mojito',
+            PropBone = 28422,
+            PropPlacement = {
+                0.0000,
+                0.0000,
+               -0.0900,
+                0.0000,
+                0.0000,
+              130.0000
+            },
+            EmoteLoop = true,
+            EmoteMoving = true
+        }
+    },
     ["frappe"] = {
         "amb@code_human_wander_drinking@male@base",
         "static",
