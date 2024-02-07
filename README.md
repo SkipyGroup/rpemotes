@@ -1,13 +1,13 @@
 # <div align="center">RPEmotes 🏋️</div>
 
-RPEmotes <b>was</b> a community driven FiveM emote menu allowing players to express themselves in roleplay with custom animations, countless facial expressions, walkstyles and props, inspired by [DullPear](https://github.com/andristum/dpemotes). 
+## This is the OFFICIAL repository of RPEmotes. I am not associated with PopcornRP and do not appreciate them taking my work and claiming it as their own.
 
-Unfortunately, it is no longer being maintained. Please refer to our wiki to self troubleshoot.
+RPEmotes <b><i>was</b></i> a community driven FiveM emote menu allowing players to express themselves in roleplay with custom animations, countless facial expressions, walkstyles and props, inspired by [DullPear](https://github.com/andristum/dpemotes). 
 
+Unfortunately, as FiveM fails to enforce their own ToS and many individuals have bullied me out of the community, it is no longer being maintained. 
 
-# Our Wiki 📜
+Please troubleshoot it yourself and stay away from <b>unofficial</b> copies.
 
-The official RPEmotes wiki docs can be accessed [here](https://docs.rpemotes.com/)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -496,3 +496,8 @@ A huge thank you to the following people for their amazing contributions made to
 You paid a huge role in making this script what it is today and we could not do it without you 🙏
 
 -------------------------------------------------------------------------------
+
+# REMINDER
+
+This is the <b>OFFICIAL</b> repository for RPEmotes, is no longer being maintained and has <b>NO</b> association with PopcornRP, PrinceAlbert, Linden, or even Scully.
+by making the repository public again, I acknowledge that these scumbags now have access to the latest version of RPEmotes, which will likely benefit their egotistical manners and allow them to dig through the files to update their shitty copy cats, however would prefer that people download the official RPEmotes straight from the original source. 
