@@ -562,7 +562,7 @@ function AddInfoMenu(menu)
 	infomenu:AddItem(NativeUI.CreateItem("Thanks <font color=\"#12ab0a\"><b>Radial 🫡</b></font>",
        "<font color=\"#12ab0a\"><b>Radial</b></font> on discord for contributing animations code"))
 	infomenu:AddItem(NativeUI.CreateItem("Thanks <font color=\"#FDEDAD\"><b>PrinceAlbert</b></font>",
-       "<font color=\"#FDEDAD\"></b>PrinceAlbert</b></font> while we may have our differences, you have fixed some underlying issues with the menu."))
+       "Thanks <font color=\"#FDEDAD\"></b>PrinceAlbert</b></font> fixed scenario props from spamming."))
         
   infomenu:AddItem(NativeUI.CreateItem("<b>Thanks to the community<b>", "Translations, bug reports and moral support 🌐"))
     
