@@ -12,7 +12,7 @@ Please troubleshoot it yourself and stay away from <b>unofficial</b> copies.
 ---------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://i.imgur.com/1RSxyVq.png" alt="Alt Text" width="800" height="auto">  
+  <img src="https://i.imgur.com/AH0KCj0.jpeg" alt="Alt Text" width="800" height="auto">  
 </p>
 
 
