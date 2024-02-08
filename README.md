@@ -491,7 +491,9 @@ A huge thank you to the following people for their amazing contributions made to
 
 - Thank you to [PNWParksFan](https://www.gta5-mods.com/users/PNWParksFan) for the custom props
 
-- Thank you to you, the community for being patient, showing love and appreciation, and for providing translations.
+- Thank you to [AlbertThePrince](https://github.com/alberttheprince). While we may have our differences, you have fixed some underlying issues with the menu which have bothered me for many years. I just wish things didn't end up this way and that people could have contributed meaningful pull requests, however, I guess with everything being open source, so long as credit is visible, there isn't an issue. *(I have also credited you in the menu with a 'popcorn' hex colour.)*
+
+- Thank you to you, the community for providing translations and supporting the project throughtout the years.
 
 You paid a huge role in making this script what it is today and we could not do it without you 🙏
 
@@ -499,5 +501,4 @@ You paid a huge role in making this script what it is today and we could not do 
 
 # REMINDER
 
-This is the <b>OFFICIAL</b> repository for RPEmotes, is no longer being maintained and has <b>NO</b> association with PopcornRP, PrinceAlbert, Linden, or even Scully.
-by making the repository public again, I acknowledge that these scumbags now have access to the latest version of RPEmotes, which will likely benefit their egotistical manners and allow them to dig through the files to update their shitty copy cats, however would prefer that people download the official RPEmotes straight from the original source. 
+This is the <b>OFFICIAL</b> repository for RPEmotes, is no longer being maintained and has <b>NO</b> association with PopcornRP, PrinceAlbert, Linden, or Scully. While our menus may appear visibly similar or contain similar content, all content was contributed by the community, regardless of which menu. We appreciate everything you have contributed and hope that you enjoy the menu, whichever you decide to choose 🙏.
