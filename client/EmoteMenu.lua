@@ -4,8 +4,8 @@
 
 
 
-local rightPosition = { x = 1450, y = 200 }
-local leftPosition = { x = 0, y = 100 }
+local rightPosition = { x = 1430, y = 200 }
+local leftPosition = { x = 0, y = 200 }
 local menuPosition = { x = 0, y = 200 }
 
 if GetAspectRatio() > 2.0 then
