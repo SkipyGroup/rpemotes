@@ -343,6 +343,8 @@ function EmoteCancel(force)
     local scenarioObjects = {
 		`ng_proc_cigarette01a`,
 		`p_cs_ciggy_01`,
+		`prop_cs_ciggy_01`,
+		`prop_cs_ciggy_01b`,
 		`p_cs_ciggy_01b_s`,
 		`p_cs_clipboard`,
 		`p_cs_joint_01`,
