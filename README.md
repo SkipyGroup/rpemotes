@@ -154,7 +154,7 @@ exports["rpemotes"]:IsPlayerProne()
 exports["rpemotes"]:IsPlayerCrawling()
 exports["rpemotes"]:IsPlayerPointing()
 exports["rpemotes"]:IsPlayerInAnim()
-exports["rpemotes":IsPlayerInHandsUp()
+exports["rpemotes"]:IsPlayerInHandsUp()
 exports["rpemotes"]:toggleWalkstyle(bool, message) -- bool to allow the user to change their walkstyle in the menu or not / message to show the user (optional, default is :"You are unable to change your walking style right now.")"
 exports["rpemotes"]:toggleBinoculars()
 exports["rpemotes"]:toggleNewscam()
