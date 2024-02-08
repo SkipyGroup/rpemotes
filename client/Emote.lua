@@ -341,14 +341,13 @@ end)
 
 function EmoteCancel(force)
     local scenarioObjects = {
-		`ng_proc_cigarette01a`,
+		`p_amb_coffeecup_01`,
+		`p_amb_joint_01`,
 		`p_cs_ciggy_01`,
-		`prop_cs_ciggy_01`,
-		`prop_cs_ciggy_01b`,
 		`p_cs_ciggy_01b_s`,
 		`p_cs_clipboard`,
 		`p_cs_joint_01`,
-		`p_amb_coffeecup_01`,
+		`p_cs_joint_02`,
 		`prop_acc_guitar_01`,
 		`prop_amb_ciggy_01`,
 		`prop_amb_phone`,
@@ -372,12 +371,15 @@ function EmoteCancel(force)
 		`prop_rag_01`,
 		`prop_scn_police_torch`,
 		`prop_sh_cigar_01`,
+		`prop_sh_joint_01`,
 		`prop_tool_broom`,
 		`prop_tool_hammer`,
 		`prop_tool_jackham`,
 		`prop_tennis_rack_01`,
 		`prop_weld_torch`,
-		`w_me_gclub`,
+		`w_me_gclub`
+
+		
 
 
     }
