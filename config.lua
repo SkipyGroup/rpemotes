@@ -64,7 +64,15 @@ Config = {
     PointingKeybind = 'B', -- Get the button string here https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/.
     PointingKeybindInCarEnabled = false,
     PersistentEmoteAfterPointing = true, -- If true, you will play the emote you were playing previously after you stop pointing.
-	
+
+
+	-- CROUCHING OPTIONS
+    CrouchEnabled = true, -- Enabled by default as this is an integral part of RPEmotes
+    CrouchKeybindEnabled = true, -- If true, crouching will use keybinds.
+    CrouchKeybind = 'lcontrol', -- The default crouch keybind, get the button string here: https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
+    CrouchOverride = false, -- If true, you won't enter stealth mode even if the crouch key and the "duck" key are the same.
+    -- If crawling should be enabled.
+    CrawlEnabled = true,
 	
 	-- CRAWLING OPTIONS
     CrawlEnabled = true, -- If crawling should be enabled.
