@@ -335,6 +335,33 @@ This will completely conceal the emotes from the lists *(Emotes, Shared Emotes, 
 
 ----------------------------------------------------------------------
 
+# Prop Extractor ↔️
+
+Many people have expressed concerns over anticheat scripts kicking or banning their community members due to the fact RPEmotes uses props and anticheats detecting said props being spawned.
+
+To make server owners' jobs a little easier, we have added a prop extractor command that you can enter into the server console which will automate a file inside the RPEmotes resource folder appropriately named, `prop_list.lua`.
+
+### Command:
+
+`emoteextract`
+
+```lua
+
+Available output formats:
+1 - 'prop_name',
+2 - "prop_name",
+3 - prop_name
+
+Command usage example: emoteextract 1
+```
+
+if you would like to visually see the props that are present in RPEmotes *(minus custom made and provided content)*, you can see them [here](https://forge.plebmasters.de/account?tab=datalists&datalist=1abf505b-23b3-493a-31a2-08dbd7a05cc3&type=Object) thanks to [DurtyFree](https://github.com/DurtyFree) and the Plebmaster's team ☺️.
+
+<img src="screenshots/extractor.png" width="700">
+
+----------------------------------------------------------------------
+
+
 # Screenshots 📸
 
 | | | |
