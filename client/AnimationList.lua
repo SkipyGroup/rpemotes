@@ -2949,6 +2949,15 @@ RP.Dances = {
             EmoteLoop = true
         }
     },
+    ["dancedrill"] = {
+        "sdrill@animation",
+        "sdrill_clip",
+        "Drill Dance",
+        AnimationOptions = {
+            EmoteLoop = true,
+			EmoteMoving = false
+        }
+    },
     ["dancepride"] = {
         "anim@amb@nightclub@lazlow@hi_railing@",
         "ambclub_09_mi_hi_bellydancer_laz",
@@ -16597,6 +16606,35 @@ RP.PropEmotes = {
                 0.0,
                 0.0,
                 0.0
+            },
+            EmoteLoop = true,
+            EmoteMoving = true
+        }
+   },
+    ["mnc"] = {
+        "anim@heists@box_carry@",
+        "idle",
+        "Milk & Cookies",
+        AnimationOptions = {
+            Prop = "m23_2_prop_m32_milkncookies_01a",
+            PropBone = 57005, --- Right Wrist
+            PropPlacement = {
+                0.2150,
+                0.1140,
+                0.0240,
+              -81.9185,
+             -176.2526,
+              -28.4674
+            },
+            SecondProp = 'm23_2_prop_m32_milkncookies_01a',
+            SecondPropBone = 18905, -- Left Wrist
+            SecondPropPlacement = {
+                0.2700,
+                0.1100,
+                0.0350,
+              -90.0000,
+             -180.0000,
+               30.0000
             },
             EmoteLoop = true,
             EmoteMoving = true
