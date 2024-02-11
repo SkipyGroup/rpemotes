@@ -10,7 +10,7 @@ version '1.3.9'
 lua54 'yes'
 
 dependencies {
-    '/server:6683',
+    '/server:7290',
     '/onesync',
 }
 
