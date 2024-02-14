@@ -220,7 +220,7 @@ RPEmotes also supports custom banners (known as 'MenuImage') which can be define
 MenuImage = 'https://i.imgur.com/osq2J0h.png',
 ```
 
-
+---------------------------------------------------------------------------------------------------------
 
 # Increments 
 
