@@ -22,6 +22,15 @@ Config = {
 	
 	-- MENU CUSTOMIZATION OPTIONS
     MenuTitle = '', -- You can change the name of the menu here or leave it blank to remove the text in front of the custom banners. This is blank by default.
+    -- You can set the menu's title font :
+    -- 0 : Chalet London
+    -- 1 : House Script
+    -- 2 : Monospace
+    -- 3 : Chalet Comprime Cologne
+    -- 7 : Pricedown
+    MenuFont = 1,
+    -- Sets the title to have an outline or not
+    TitleOutline = false,
     MenuPosition = 'right', -- You can change the menu position here. Use 'left' or 'right'
     CustomMenuEnabled = true, -- You can change the header image for the menu here, Note this might cause an issue of the image getting stuck on people's screens.
     MenuImage = 'https://i.imgur.com/osq2J0h.png', -- You can change the menu image here, please use an image hosted on Imgur, GIPHY or a discord channel / DM with the same width and length. Use a 512 x 128 image!
