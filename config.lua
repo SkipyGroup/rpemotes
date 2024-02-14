@@ -33,7 +33,7 @@ Config = {
     TitleOutline = false,
     MenuPosition = 'right', -- You can change the menu position here. Use 'left' or 'right'
     CustomMenuEnabled = true, -- You can change the header image for the menu here, Note this might cause an issue of the image getting stuck on people's screens.
-    MenuImage = 'https://i.imgur.com/osq2J0h.png', -- You can change the menu image here, please use an image hosted on Imgur, GIPHY or a discord channel / DM with the same width and length. Use a 512 x 128 image!
+    MenuImage = 'https://i.imgur.com/ghGRWYh.png', -- You can change the menu image here, please use an image hosted on Imgur, GIPHY or a discord channel / DM with the same width and length. Use a 512 x 128 image!
 
 
 	-- COMBAT CAR, AND PLAYER MOVEMENT OPTIONS
