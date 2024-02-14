@@ -26,7 +26,7 @@ Config = {
     -- 0 : Chalet London
     -- 1 : House Script
     -- 2 : Monospace
-    -- 3 : Chalet Comprime Cologne
+    -- 4 : Chalet Comprime Cologne
     -- 7 : Pricedown
     MenuFont = 1,
     -- Sets the title to have an outline or not
