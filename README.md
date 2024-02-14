@@ -91,6 +91,8 @@ Languages can be selected and / or added in the config.lua.
 
 # Features 🛠️
 
+ - Changeable Banner Font
+
 - Multiple Translations 🌏
 
 - Search Function 🔎
@@ -198,6 +200,27 @@ Alternatively, you can use the keybind command that comes with FiveM without hav
 `bind keyboard "Yourbutton" "e youremote"`. To remove the keybind, type `"unbind keyboard "Yourbutton"`.
 
 ---------------------------------------------------------------------------------------------------------
+
+# Menu Customization
+
+In the appropiately named `config.lua` file, server owners can set the MenuTitle or simply leave it blank. Ideally, this should be 11 characters or less without any spaces.
+You can also set the font, whether or not you want an outline and the MenuPosition. The available fonts are as followed:
+
+```lua
+    -- 0 : Chalet London
+    -- 1 : House Script
+    -- 2 : Monospace
+    -- 4 : Chalet Comprime Cologne
+    -- 7 : Pricedown
+```
+
+RPEmotes also supports custom banners (known as 'MenuImage') which can be defined by a simple imgur, giphy or discord URL like so:
+
+```lua
+MenuImage = 'https://i.imgur.com/osq2J0h.png',
+```
+
+
 
 # Increments 
 
