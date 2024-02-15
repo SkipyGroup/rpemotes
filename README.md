@@ -1,6 +1,6 @@
 # <div align="center">RPEmotes 🏋️</div>
 
-## This is the OFFICIAL repository of RPEmotes. I am not associated with PopcornRP.
+## This is the OFFICIAL repository of RPEmotes.
 
 RPEmotes <b><i>was</b></i> a community driven FiveM emote menu allowing players to express themselves in roleplay with custom animations, countless facial expressions, walkstyles and props, inspired by [DullPear](https://github.com/andristum/dpemotes). 
 
@@ -56,6 +56,8 @@ Please troubleshoot it yourself and stay away from <b>unofficial</b> copies.
 * Indonesian 🇮🇩
 
 * Italian 🇮🇹
+
+* Japanese 🇯🇵
 
 * Lithuanian 🇱🇹
 
