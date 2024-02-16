@@ -21,7 +21,7 @@ Config = {
 	
 	
 	-- MENU CUSTOMIZATION OPTIONS
-    MenuTitle = '', -- You can change the name of the menu here or leave it blank to remove the text in front of the custom banners. This is blank by default.
+    MenuTitle = '', -- You can change the name of the menu here or leave it blank to remove the text in front of the custom banners. This is blank by default. Ideally use 11 characters or less.
     -- You can set the menu's title font :
     -- 0 : Chalet London
     -- 1 : House Script
@@ -29,12 +29,12 @@ Config = {
     -- 4 : Chalet Comprime Cologne
     -- 7 : Pricedown
     MenuFont = 1,
-    -- Sets the title to have an outline or not
-    TitleOutline = false,
-    TitleColour = { R = 255, G = 255, B = 255, A = 255 },
+    -- Sets whether or not the menu text has an outline or not. 
+    TitleOutline = true,
+    TitleColour = { R = 255, G = 0, B = 255, A = 255 }, --- The colour of the menu banner text in RGB. This is white by default aka 255, 255, 255. See https://www.rapidtables.com/web/color/RGB_Color.html for colours.
     MenuPosition = 'right', -- You can change the menu position here. Use 'left' or 'right'
     CustomMenuEnabled = true, -- You can change the header image for the menu here, Note this might cause an issue of the image getting stuck on people's screens.
-    MenuImage = 'https://i.imgur.com/ghGRWYh.png', -- You can change the menu image here, please use an image hosted on Imgur, GIPHY or a discord channel / DM with the same width and length. Use a 512 x 128 image!
+    MenuImage = 'https://i.imgur.com/ghGRWYh.png', -- You can change the menu image here, please use an image hosted on Imgur, GIPHY or a Discord channel / DM with the same width and length. Use a 512 x 128 image!
 
 
 	-- COMBAT CAR, AND PLAYER MOVEMENT OPTIONS
