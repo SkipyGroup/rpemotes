@@ -95,6 +95,8 @@ Languages can be selected and / or added in the config.lua.
 
  - Changeable Banner Font
 
+ - Changable Banner Colour
+
 - Multiple Translations 🌏
 
 - Search Function 🔎
@@ -221,6 +223,10 @@ RPEmotes also supports custom banners (known as 'MenuImage') which can be define
 ```lua
 MenuImage = 'https://i.imgur.com/osq2J0h.png',
 ```
+
+You can find a banner template here - https://imgur.com/a/jRrVBog. Banners must be 512 x 128 pixels and can be either gif or png.
+
+
 
 ---------------------------------------------------------------------------------------------------------
 
