@@ -2396,7 +2396,7 @@ function UIMenu.New(Title, Subtitle, X, Y, TxtDictionary, TxtName)
     local _UIMenu = {
         Logo = Sprite.New(TxtDictionary, TxtName, 0 + X, 0 + Y, 431, 107),
         Banner = nil,
-        Title = UIResText.New(Title, 215 + X, 20 + Y, 1.15, 255, 255, 255, 255, Config.MenuFont, 1, nil, Config.TitleOutline),
+        Title = UIResText.New(Title, 215 + X, 20 + Y, 1.15, Config.TitleColour.R, Config.TitleColour.G, Config.TitleColour.B, Config.TitleColour.A, Config.MenuFont, 1, nil, Config.TitleOutline),
         Subtitle = { ExtraY = 0 },
         WidthOffset = 0,
         Position = { X = X, Y = Y },
