@@ -595,6 +595,7 @@ function OpenEmoteMenu()
     end
 end
 
+LoadAddonEmotes()
 AddEmoteMenu(mainMenu)
 AddCancelEmote(mainMenu)
 if Config.WalkingStylesEnabled then
