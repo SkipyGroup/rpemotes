@@ -11690,6 +11690,44 @@ RP.PropEmotes = {
             EmoteMoving = true
         }
     },
+    ["coffeecall"] = {
+        "switch@michael@coffee_w_dave",
+        "002291_02_fbi_3_coffee_w_dave_idle_dave",
+        "Coffee Phone Call",
+        AnimationOptions = {
+            Prop = 'p_ing_coffeecup_01',
+            PropBone = 28422,
+            PropPlacement = {
+                0.0,
+                0.0,
+               -0.0140,
+                0.0,
+                0.0,
+			   90.0
+            },
+            SecondProp = 'prop_phone_taymckenzienz',
+			PropTextureVariations = {
+                {Name = "<font color=\"#00A0F4\">Blue", Value = 0},
+                {Name = "<font color=\"#1AA20E\">Green", Value = 1},
+                {Name = "<font color=\"#800B0B\">Dark Red", Value = 2},
+                {Name = "<font color=\"#FF7B00\">Orange", Value = 3},
+                {Name = "<font color=\"#5F5F5F\">Grey", Value = 4},
+                {Name = "<font color=\"#a356fa\">Purple", Value = 5},
+                {Name = "<font color=\"#FF0099\">Pink", Value = 6},
+                {Name = "Black", Value = 7},
+            },
+            SecondPropBone = 60309,
+            SecondPropPlacement = {
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            },
+            EmoteLoop = true,
+            EmoteMoving = true
+        }
+    },
     ["whiskey"] = {
         "amb@world_human_drinking@coffee@male@idle_a",
         "idle_c",
