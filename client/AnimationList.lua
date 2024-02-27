@@ -13226,7 +13226,7 @@ RP.PropEmotes = {
     ["mshake"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Bubblegum",
+        "milkshake - Bubblegum",
         AnimationOptions = {
             Prop = 'brum_cherryshake_bubblegum',
             PropBone = 28422,
@@ -13245,7 +13245,7 @@ RP.PropEmotes = {
     ["mshakeb"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Cherry",
+        "milkshake - Cherry",
         AnimationOptions = {
             Prop = 'brum_cherryshake_cherry',
             PropBone = 28422,
@@ -13264,7 +13264,7 @@ RP.PropEmotes = {
     ["mshakec"] = {
        "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Chocolate",
+        "milkshake - Chocolate",
         AnimationOptions = {
             Prop = 'brum_cherryshake_chocolate',
             PropBone = 28422,
@@ -13283,7 +13283,7 @@ RP.PropEmotes = {
     ["mshaked"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Coffee",
+        "milkshake - Coffee",
         AnimationOptions = {
             Prop = 'brum_cherryshake_coffee',
             PropBone = 28422,
@@ -13302,7 +13302,7 @@ RP.PropEmotes = {
     ["mshakee"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Double Chocolate",
+        "milkshake - Double Chocolate",
         AnimationOptions = {
             Prop = 'brum_cherryshake_doublechocolate',
             PropBone = 28422,
@@ -13321,7 +13321,7 @@ RP.PropEmotes = {
     ["mshakef"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Frappe",
+        "milkshake - Frappe",
         AnimationOptions = {
             Prop = 'brum_cherryshake_frappe',
             PropBone = 28422,
@@ -13340,7 +13340,7 @@ RP.PropEmotes = {
     ["mshakeg"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Lemon",
+        "milkshake - Lemon",
         AnimationOptions = {
             Prop = 'brum_cherryshake_lemon',
             PropBone = 28422,
@@ -13359,7 +13359,7 @@ RP.PropEmotes = {
     ["mshakeh"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Mint",
+        "milkshake - Mint",
         AnimationOptions = {
             Prop = 'brum_cherryshake_mint',
             PropBone = 28422,
@@ -13378,7 +13378,7 @@ RP.PropEmotes = {
     ["mshakei"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Strawberry",
+        "milkshake - Strawberry",
         AnimationOptions = {
             Prop = 'brum_cherryshake_strawberry',
             PropBone = 28422,
@@ -13397,7 +13397,7 @@ RP.PropEmotes = {
     ["mshakej"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Raspberry",
+        "milkshake - Raspberry",
         AnimationOptions = {
             Prop = 'brum_cherryshake_raspberry',
             PropBone = 28422,
@@ -13416,7 +13416,7 @@ RP.PropEmotes = {
     ["mshakek"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Salted",
+        "milkshake - Salted",
         AnimationOptions = {
             Prop = 'brum_cherryshake_salted',
             PropBone = 28422,
@@ -13435,7 +13435,7 @@ RP.PropEmotes = {
     ["mshakel"] = {
         "amb@code_human_wander_drinking@female@base",
         "static",
-        "Milshake - Vanilla",
+        "milkshake - Vanilla",
         AnimationOptions = {
             Prop = 'brum_cherryshake_vanilla',
             PropBone = 28422,
