@@ -346,6 +346,7 @@ function EmoteCancel(force)
 		`p_cs_ciggy_01`,
 		`p_cs_ciggy_01b_s`,
 		`p_cs_clipboard`,
+		`prop_curl_bar_01`,
 		`p_cs_joint_01`,
 		`p_cs_joint_02`,
 		`prop_acc_guitar_01`,
