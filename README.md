@@ -441,7 +441,11 @@ Alternatively, you can use the keybind command that comes with FiveM without hav
 
 - **Check out my youtube playlist below:**
 
-[![Video Preview](https://img.youtube.com/vi/Uk_ggRRlFuo/0.jpg)](https://www.youtube.com/watch?v=3uVe0hvWwPQ&list=PLzFM1zdDHFn2vKWT323wVJoEkGhWiyyeC)
+[![Video Preview](https://img.youtube.com/vi/T8f8ZUJrIOo/0.jpg)](https://youtube.com/playlist?list=PLzFM1zdDHFn2vKWT323wVJoEkGhWiyyeC)
+
+A text tutorial for Shared Emotes can be found [here](https://forum.cfx.re/t/how-to-menyoo-to-rpemotes-emote-props-shared-emotes-conversions/4775018). 
+
+I recommend using the updated and supported version of [Menyoo](https://github.com/itsjustcurtis/MenyooSP/releases) by ItsJustCurtis as it already supports FiveM, taking away rhe manual frustration of updating the ASI file, which I previously mentioned in the forum post before Cfx.re banned me out of spite.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
