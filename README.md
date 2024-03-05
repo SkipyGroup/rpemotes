@@ -6,7 +6,13 @@ RPEmotes <b><i>was</b></i> a community driven FiveM emote menu allowing players 
 
 Unfortunately, as FiveM fails to enforce their own ToS and many individuals have bullied me out of the community, it is no longer being maintained. 
 
-Please troubleshoot it yourself and stay away from <b>unofficial</b> copies.
+  - It is also extremely shameful that despite the repository being licensed under GPL V3, many scumbags within the community can essentionally steal and reupload its' content to their shady Tebex stores, of which the Tebex support team simply turn a blind eye to as it makes them, Rockstar, and the Cfx.re team money.
+
+I simply don't care about getting inspiration or if you want to make a new UI as you don't find NativeUI appealing; that's fine, but to outright steal animations and props from the community of which have been gracefully provided to RPEmotes under the conditions that I, TayMcKenzieNZ do not finanically profit of it, only for you others to reupload behind a paywall, is for lack of a better word, "Completely and utterly fucked up".
+
+Too often I am seeing exact copies and nothing is unique. Oh look, your menu has an option to disable the idle camera; Did I invent that? No. Was I the first to implement it into an animation menu? Yeah. Can I stop anyone else from doing so? No. But at least be unique, at least add something to your menu that makes someone say "DUDE! I've been wanting this forever but this other person doesn't have it. Damn! Thanks man!" Rather than just a blantant copy paste with a new UI.
+
+As I am no longer actively updating this repository and resource, please troubleshoot it yourself and stay away from <b>unofficial</b> copies that refuse to acknowledge the hardwork of those who contributed to the original resource.
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -563,4 +569,6 @@ You paid a huge role in making this script what it is today and we could not do 
 
 # REMINDER
 
-This is the <b>OFFICIAL</b> repository for RPEmotes, is no longer being maintained and has <b>NO</b> association with PopcornRP, PrinceAlbert, Linden, or Scully. While our menus may appear visibly similar or contain similar content, all content was contributed by the community, regardless of which menu. We appreciate everything you have contributed and hope that you enjoy the menu, whichever you decide to choose 🙏.
+This is the <b>OFFICIAL</b> repository for RPEmotes, is no longer being maintained and has <b>NO</b> association with Linden, or Scullyy. While our menus may appear visibly similar or contain similar content, all content was contributed by the community.
+
+We appreciate everything you have contributed and hope that you enjoy the menu 🙏.
