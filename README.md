@@ -2,6 +2,16 @@
 
 ## This is the OFFICIAL repository of RPEmotes.
 
+### RPEmotes is under GNU GPL v3 licensing.
+
+### If you fork or include any content from this menu into your own, all credits must remain including credits to myself and Dullpear, and the content must remain __**OPEN SOURCE**__. 
+
+### You must not escrow ANY of the content included in this menu including but not limited to code, props and animations.
+
+If this bullshit behaviour continues, I will make the repository private yet again. Fuck the FiveM money hungry community.
+
+-------------------------------
+
 RPEmotes <b><i>was</b></i> a community driven FiveM emote menu allowing players to express themselves in roleplay with custom animations, countless facial expressions, walkstyles and props, inspired by [DullPear](https://github.com/andristum/dpemotes). 
 
 Unfortunately, as FiveM fails to enforce their own ToS and many individuals have bullied me out of the community, it is no longer being maintained. 
